@@ -1,0 +1,12 @@
+// $Id: $
+// File name: modexp.sv
+// Created: 4/11/2013
+// Author: Krishna Kannan
+// Lab Section: 337-03
+// Version: 2.0  Initial Design Entry
+// Description: This module does uses the squares method to do the exponentiation
+
+module modexp(
+  
+  
+  );
